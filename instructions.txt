@@ -1,0 +1,5 @@
+1. First install requirement.txt using pip
+2. change mt_location, vt_location and montana_stat_location to point to appropriate location including dataset
+3. montana_stat_location must point to montana_stats.csv which is in git
+4. use Jupyter to run notebooks
+5. first_question.ipynb is for first question and second.ipynb is for second question
